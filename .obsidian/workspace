@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "1bc7eeec75a37ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2517769c2abd47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathe/Funktionen/Lineare Funktionen/Steigung m zwischen zwei punkte.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5dd09608c37b9f41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathe/Funktionen/Lineare Funktionen/Lineare Funktionen.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a3792d83db0dcb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4f2eb5cb175ab38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081884e80393c247",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fa7a031cf731d41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d67dcceab9e20653",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ef50f3b66c4aa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b1a55cd9aeb4bc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathe/Funktionen/Lineare Funktionen/Steigung m zwischen zwei punkte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ef2517769c2abd47",
+  "lastOpenFiles": [
+    "Mathe/Funktionen/Lineare Funktionen/Steigung m zwischen zwei punkte.md",
+    "Mathe/Funktionen/Lineare Funktionen/Funktion Mit 2 Punkte Bedingungen.md",
+    "Mathe/Funktionen/Lineare Funktionen/Lineare Funktionen.md",
+    "Mathe/Funktionen/Lineare Funktionen/Untitled.md",
+    "Math/Funktionen/Lineare Funktionen/Lineare Funktion mit zwei Punkte (Bedingungen) bestimmen.md",
+    "Math/Funktionen/Lineare Funktionen/Untitled.md",
+    "Untitled.md"
+  ]
+}
